@@ -1,0 +1,13 @@
+* noise-sandbox
+
+A Clojure library designed to ... well, that part is up to you.
+
+** Usage
+
+FIXME
+
+** License
+
+Copyright (c) 2022 Sébastien Le Callonnec
+
+This project is licensed under the [[https://choosealicense.com/licenses/gpl-3.0][GNU General Public License v3.0]].
